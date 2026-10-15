@@ -4,7 +4,7 @@ Look up U.S. trucking companies and freight brokers in FMCSA public records befo
 
 - Website: https://carrierledger.tryneverclosed.com
 - Remote MCP server (Streamable HTTP, no sign-in): `https://carrierledger.tryneverclosed.com/mcp`
-- Official MCP Registry name: `dev.workers.neoaethel.carrier-ledger`
+- Official MCP Registry name: `dev.workers.neoaethel.carrier-ledger/carrier-ledger`
 - Also listed in the Claude Connectors Directory: https://claude.ai/directory/carrier-ledger
 
 This repository holds documentation only. It contains no server code.
